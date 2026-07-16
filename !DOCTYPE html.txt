@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mohammad Robiul Islam | Researcher</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            color: #222;
+            background: #f5f7fa;
+        }
+
+        header {
+            background: #0b3c5d;
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin-bottom: 10px;
+            font-size: 40px;
+        }
+
+        header p {
+            font-size: 18px;
+        }
+
+        nav {
+            background: white;
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        nav a {
+            color: #0b3c5d;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #e69f00;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #0b3c5d;
+            border-bottom: 2px solid #e69f00;
+            padding-bottom: 8px;
+        }
+
+        .publication {
+            margin-bottom: 18px;
+        }
+
+        footer {
+            background: #0b3c5d;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #e69f00;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Mohammad Robiul Islam</h1>
+    <p>Ph.D. Researcher | Triboelectric Nanogenerators | Wearable Sensors</p>
+    <p>Kwangwoon University, Seoul, Republic of Korea</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+
+    <p>
+        I am an integrated Ph.D. researcher in the Department of Electronic
+        Engineering at Kwangwoon University, Seoul. My research focuses on
+        triboelectric nanogenerators, self-powered wearable sensors,
+        nanofibrous materials, and human–machine interfaces.
+    </p>
+
+    <a class="button" href="cv.pdf" target="_blank">Download CV</a>
+</section>
+
+<section id="research">
+    <h2>Research Interests</h2>
+
+    <ul>
+        <li>Triboelectric nanogenerators</li>
+        <li>Self-powered wearable sensors</li>
+        <li>Electrospun nanofibers</li>
+        <li>Metal–organic frameworks and COFs</li>
+        <li>Human–machine interfaces</li>
+        <li>Machine learning for sensor applications</li>
+    </ul>
+</section>
+
+<section id="publications">
+    <h2>Selected Publications</h2>
+
+    <div class="publication">
+        <strong>All-Nanofibrous Breathable and Stretchable Triboelectric Nanogenerators</strong><br>
+        Advanced Energy Materials
+    </div>
+
+    <div class="publication">
+        <strong>PolyDADMAC-Based High-Performance Nanofibrous Triboelectric Nanogenerator</strong><br>
+        Advanced Functional Materials
+    </div>
+
+    <div class="publication">
+        <strong>Self-Powered Wearable Sensor Based on Functional Nanofibers</strong><br>
+        Chemical Engineering Journal
+    </div>
+</section>
+
+<section id="projects">
+    <h2>Research Projects</h2>
+
+    <h3>Wearable Triboelectric Sensors</h3>
+    <p>
+        Development of flexible and highly sensitive triboelectric sensors
+        for pulse monitoring, respiration detection, sign-language
+        recognition, and human–machine interaction.
+    </p>
+
+    <h3>Nanofibrous Energy Harvesters</h3>
+    <p>
+        Fabrication of breathable and stretchable electrospun nanofibers for
+        wearable mechanical-energy harvesting.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+
+    <p>
+        Advanced Sensor and Energy Research Laboratory<br>
+        Department of Electronic Engineering<br>
+        Kwangwoon University, Seoul, Republic of Korea
+    </p>
+
+    <p>
+        Email: your-email@kw.ac.kr
+    </p>
+
+    <p>
+        <a href="https://scholar.google.com" target="_blank">Google Scholar</a> |
+        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> |
+        <a href="https://github.com" target="_blank">GitHub</a>
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Mohammad Robiul Islam. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
